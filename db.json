@@ -1,0 +1,12 @@
+{
+  "bg": "https://images4.alphacoders.com/294/294568.png",
+  "title": "",
+  "theme": {
+    "colors": {
+      "primary": "#ff9800",
+      "secondary": "#d500f9",
+      "contrastText": "#FFFFFF"
+    },
+    "borderRadius": "4px"
+  }
+}
